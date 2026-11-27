@@ -1,0 +1,1313 @@
+{
+  "curso": {
+    "nombre": "Curso de ajedrez CUEX",
+    "anio": 2026,
+    "docentes": [
+      "Mati",
+      "Gian",
+      "Jorge",
+      "Nico"
+    ]
+  },
+  "modulos": [
+    {
+      "id": "m1",
+      "numero": 1,
+      "titulo": "Rudimentos: debates en torno a la implementación del ajedrez escolar",
+      "lineaTransversal": "Enseñanza del juego del ajedrez",
+      "clases": [
+        {
+          "numero": 1,
+          "fecha": "2026-06-22",
+          "temario": "Presentación. Debates en torno a la implementación del ajedrez escolar en las escuelas.",
+          "docentes": [
+            "Mati",
+            "Gian"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 2,
+          "fecha": "2026-06-29",
+          "temario": "Primera clase de ajedrez. Tablero, movimientos de las piezas, jaque, jaque mate y ahogado. Notación algebraica y nomenclatura.",
+          "docentes": [
+            "Mati",
+            "Gian"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 3,
+          "fecha": "2026-07-06",
+          "temario": "Juegos de preajedrez: carrera de peones, el rey y el agujero negro, piezas contra peones, el juego de las torres.",
+          "docentes": [
+            "Mati",
+            "Gian"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 4,
+          "fecha": "2026-07-13",
+          "temario": "Devolución del trabajo en el foro. Balance del módulo",
+          "docentes": [
+            "Mati",
+            "Gian"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "numero": 2,
+      "titulo": "Prácticas de lectura y escritura desde la construcción lúdica del discurso: relatos, narraciones y experiencias a través del ajedrez",
+      "lineaTransversal": "Enseñanza del juego del ajedrez",
+      "clases": [
+        {
+          "numero": 1,
+          "fecha": "2026-07-20",
+          "temario": "El ajedrez y la literatura. El homo narrans: el hábito de jugar y narrar",
+          "docentes": [
+            "Gian",
+            "Jorge"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 2,
+          "fecha": "2026-07-27",
+          "temario": "Segunda clase de ajedrez: fases de la partida. Introducción a táctica y estrategia. Valores de las piezas",
+          "docentes": [
+            "Gian",
+            "Jorge"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 3,
+          "fecha": "2026-08-03",
+          "temario": "El ajedrez literario y literatura sobre el ajedrez",
+          "docentes": [
+            "Gian",
+            "Jorge"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 4,
+          "fecha": "2026-08-10",
+          "temario": "Devolución del trabajo en el foro. Balance del módulo",
+          "docentes": [
+            "Gian",
+            "Jorge"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "numero": 3,
+      "titulo": "Ajedrez y enseñanza de las Ciencias Sociales: el ajedrez como imagen de los contextos sociohistóricos",
+      "lineaTransversal": "Enseñanza del juego del ajedrez",
+      "clases": [
+        {
+          "numero": 1,
+          "fecha": "2026-08-17",
+          "temario": "La historia del ajedrez y los mitos fundacionales. Estratificación social, espacio y territorio.",
+          "docentes": [
+            "Nico",
+            "Mati"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 2,
+          "fecha": "2026-08-24",
+          "temario": "Tercera clase de ajedrez. Principios generales de la apertura. Motivos tácticos básicos.",
+          "docentes": [
+            "Nico",
+            "Mati"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 3,
+          "fecha": "2026-08-31",
+          "temario": "El rol del ajedrez en la construcción simbólica de los cambios sociales. El juego como imagen del mundo",
+          "docentes": [
+            "Nico",
+            "Mati"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 4,
+          "fecha": "2026-09-07",
+          "temario": "Sociedad de la información y conectividad. Cierre del módulo",
+          "docentes": [
+            "Nico",
+            "Mati"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "numero": 4,
+      "titulo": "El ajedrez como imagen del mundo: simbolismos, expresiones y representaciones del ajedrez en las artes, el cine y la literatura universal",
+      "lineaTransversal": "Enseñanza del juego del ajedrez",
+      "clases": [
+        {
+          "numero": 1,
+          "fecha": "2026-09-14",
+          "temario": "El ajedrez y las artes audiovisuales. Cinematografía, análisis de los espacios, personajes y su simbología",
+          "docentes": [
+            "Mati",
+            "Gian",
+            "Nico"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 2,
+          "fecha": "2026-09-21",
+          "temario": "Cuarta clase de ajedrez. Elementos estratégicos fundamentales: casillas débiles, puestos avanzados, columnas abiertas y dinámica de piezas",
+          "docentes": [
+            "Mati",
+            "Gian",
+            "Nico"
+          ],
+          "notaDocentes": "con ayuda de Jorge",
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 3,
+          "fecha": "2026-09-28",
+          "temario": "El ajedrez y las artes visuales: pintura y plástica, materialidad física y simbólica. Ajedrez para el lenguaje musical y expresividad rítmica. El ajedrez y la música como bienes culturales",
+          "docentes": [
+            "Mati",
+            "Gian",
+            "Nico"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 4,
+          "fecha": "2026-10-05",
+          "temario": "Devolución del trabajo en el foro. Balance del módulo",
+          "docentes": [
+            "Mati",
+            "Gian",
+            "Nico"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        }
+      ]
+    },
+    {
+      "id": "m5",
+      "numero": 5,
+      "titulo": "Esquemas, números y formas: estrategias resolutivas desde la articulación entre el ajedrez y las matemáticas",
+      "lineaTransversal": "Realización del trabajo final integrador",
+      "clases": [
+        {
+          "numero": 1,
+          "fecha": "2026-10-12",
+          "temario": "El ajedrez y las matematicas: Números, valores y representaciones: aritmética y conjuntos, propiedades y relaciones",
+          "docentes": [
+            "Jorge",
+            "Nico"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 2,
+          "fecha": "2026-10-19",
+          "temario": "Pautas para el trabajo final",
+          "docentes": [
+            "Jorge",
+            "Nico"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 3,
+          "fecha": "2026-10-26",
+          "temario": "El ajedrez y la geometria. Formas, figuras y espacialidad",
+          "docentes": [
+            "Jorge",
+            "Nico"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 4,
+          "fecha": "2026-11-02",
+          "temario": "Razonamiento lógico-matemático y pensamiento resolutivo: cálculo de secuencias, series, derivaciones, deducción. Teoría de juegos y aplicaciones",
+          "docentes": [
+            "Jorge",
+            "Nico"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        }
+      ]
+    },
+    {
+      "id": "m6",
+      "numero": 6,
+      "titulo": "Acompañando las trayectorias escolares: normas, valores y convivencia a partir del aspecto lúdico del ajedrez",
+      "lineaTransversal": "Realización del trabajo final integrador",
+      "clases": [
+        {
+          "numero": 1,
+          "fecha": "2026-11-09",
+          "temario": "El ajedrez como herramienta para el desarrollo de la educación sociocomunitaria. La ESI y el ajedrez.",
+          "docentes": [
+            "Nico",
+            "Gian"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 2,
+          "fecha": "2026-11-16",
+          "temario": "Seguimiento de trabajo final",
+          "docentes": [
+            "Nico",
+            "Gian"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 3,
+          "fecha": "2026-11-23",
+          "temario": "La IA como herramienta educativa y potenciadora de vínculos entre el ajedrez y las ciencias cognitivas",
+          "docentes": [
+            "Nico",
+            "Gian"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        },
+        {
+          "numero": 4,
+          "fecha": "2026-11-30",
+          "temario": "Entrega de trabajo final. Cierre del curso",
+          "docentes": [
+            "Nico",
+            "Gian"
+          ],
+          "notaDocentes": null,
+          "textos": [],
+          "entrega": null
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "a1",
+      "titulo": "Enseñanza del ajedrez",
+      "textos": [
+        "a1-teoria-de-los-finales-de-partida",
+        "a1-disculpen-las-aperturas-los-finales-son-fundamentales-parte",
+        "a1-disculpen-las-aperturas-los-finales-son-fundamentales-parte-2",
+        "a1-los-100-finales-que-hay-que-saber",
+        "a1-el-arte-de-maniobrar-con-las-piezas",
+        "a1-leyes-del-ajedrez-de-la-fide",
+        "a1-tratado-general-de-ajedrez-tomo-i-rudimentos",
+        "a1-tratado-general-de-ajedrez-tomo-ii-tactica",
+        "a1-tratado-general-de-ajedrez-tomo-iii-conformacion-de-peones",
+        "a1-tratado-general-de-ajedrez-tomo-iv-estrategia-superior",
+        "a1-escuela-de-ajedrez-1-cap1-2-13-43",
+        "a1-mejore-su-ajedrez-posicional",
+        "a1-la-estrategia-en-el-ajedrez-como-valorar-posiciones-y-trazar",
+        "a1-el-poder-del-rey-en-el-ajedrez",
+        "a1-mi-sistema",
+        "a1-larousse-del-ajedrez-descubrir-profundizar-dominar"
+      ]
+    },
+    {
+      "id": "a2",
+      "titulo": "Rudimentos del ajedrez escolar",
+      "textos": [
+        "a2-ajedrez-en-los-ochenta",
+        "a2-ajedrez-escolar-o-ajedrez-en-la-escuela",
+        "a2-ajedrez-en-la-escuela-o-ajedrez-escolar-ponencia-primer-cong",
+        "a2-ensenanza-para-la-comprension",
+        "a2-la-ensenanza-del-ajedrez-en-primaria",
+        "a2-el-concepto-de-posicion-docente-notas-conceptuales-y-metodol",
+        "a2-el-aprendizaje-del-ajedrez-material-para-el-docente-de-ajedr",
+        "a2-el-saber-tiene-sentido-una-propuesta-de-integracion-curricul",
+        "a2-un-enfoque-comprensivo-global-en-ajedrez-tomo-i-reflexiones",
+        "a2-un-enfoque-comprensivo-global-en-ajedrez-tomo-ii-aproximacio",
+        "a2-ajedrez-escolar-indagaciones-y-perspectivas"
+      ]
+    },
+    {
+      "id": "a3",
+      "titulo": "Ciencias sociales",
+      "textos": [
+        "a3-el-discurso-social-los-limites-historicos-de-lo-pensable-y-l",
+        "a3-el-ajedrez-tratado-de-sus-principios-fundamentales",
+        "a3-mitologia-del-ajedrez",
+        "a3-el-libro-de-las-tablas-de-alfonso-x-el-sabio",
+        "a3-historia-general-del-ajedrez",
+        "a3-ensenanza-y-aprendizaje-de-la-historia-vinculos-entre-la-dis",
+        "a3-transformar-la-ensenanza-y-aprendizaje-de-la-historia-desde",
+        "a3-libro-de-axedrec-dados-e-tablas",
+        "a3-ajedrez-y-sangre-en-el-parque",
+        "a3-los-anos-locos-del-ajedrez-argentino",
+        "a3-a-history-of-chess",
+        "a3-la-batalla-de-ideas-en-ajedrez"
+      ]
+    },
+    {
+      "id": "a4",
+      "titulo": "Prácticas del Lenguaje",
+      "textos": [
+        "a4-la-construccion-social-de-la-realidad",
+        "a4-movimientos-en-blanco-y-negro-historia-literatura-y-arte-en",
+        "a4-del-homo-ludens-a-la-gamificacion",
+        "a4-cuentos-de-ajedrez",
+        "a4-homo-ludens",
+        "a4-la-leyenda-del-tablero-de-ajedrez-y-los-granos-de-trigo",
+        "a4-labov-1997",
+        "a4-filosofia-del-ajedrez",
+        "a4-homo-narrans-the-poetics-and-anthropology-of-oral-literature",
+        "a4-como-disenar-actividades-de-comprension-lectora",
+        "a4-juegos-y-problemas-de-ajedrez-para-sherlock-holmes",
+        "a4-the-chess-mysteries-of-the-arabian-chess"
+      ]
+    },
+    {
+      "id": "a5",
+      "titulo": "Artística",
+      "textos": [
+        "a5-diseno-curricular-para-la-educacion-secundaria-1-ano",
+        "a5-diseno-curricular-para-la-educacion-secundaria-2-ano",
+        "a5-diseno-curricular-para-la-educacion-secundaria-3-ano",
+        "a5-language-as-a-social-semiotic-the-social-interpretation-of-l",
+        "a5-introducing-multimodality",
+        "a5-el-espacio-ajedrecistico",
+        "a5-pinacoteca-virtual-de-ajedrez",
+        "a5-propuesta-de-ensenanza-para-la-escuela-en-el-area-de-la-educ",
+        "a5-ajedrez-las-piezas-staunton"
+      ]
+    },
+    {
+      "id": "a6",
+      "titulo": "Matemática",
+      "textos": [
+        "a6-48-escaques-ajedrez-y-matematicas-1",
+        "a6-50-ejercicios-de-ajedrez-y-matematicas-para-las-escuelas-un",
+        "a6-cuartos-de-torre-y-caballo",
+        "a6-el-ajedrez-como-recurso-didactico-para-desarrollar-el-pensam",
+        "a6-el-juego-en-la-educacion-infantil-y-primaria",
+        "a6-ajedrez-y-matematica",
+        "a6-el-espacio-ajedrecistico",
+        "a6-incidencia-de-un-programa-de-ajedrez-en-los-tipos-de-pensami",
+        "a6-la-influencia-del-ajedrez-en-los-procesos-cognitivos",
+        "a6-matematicas-y-ajedrez-tfg",
+        "a6-el-juego-de-ajedrez-como-recurso-didactico-en-el-aprendizaje",
+        "a6-el-hombre-que-calculaba",
+        "a6-ajedrez-estrategia-didactica-alternativa-para-el-desarrollo"
+      ]
+    },
+    {
+      "id": "a7",
+      "titulo": "Acompañamiento de las trayectorias",
+      "textos": [
+        "a7-la-nocion-de-modelo-en-las-ciencias-sociales",
+        "a7-adaptacion-de-modelos-de-aprendizaje-profundo-para-ajedrez",
+        "a7-las-trayectorias-educativas-desde-la-perspectiva-de-una-psic",
+        "a7-lineamientos-esi",
+        "a7-politicas-practicas-socioeducativas-y-escuelas-secundarias",
+        "a7-modelo-sociocomunitario",
+        "a7-fundamentos-de-ia-para-el-ajedrez",
+        "a7-actos-de-habla-ensayo-de-filosofia-del-lenguaje",
+        "a7-proyecto-de-acompanamiento-a-las-trayectorias-educativas",
+        "a7-los-desafios-que-plantean-las-trayectorias-escolares"
+      ]
+    }
+  ],
+  "textos": [
+    {
+      "id": "a1-teoria-de-los-finales-de-partida",
+      "areaId": "a1",
+      "autor": "Averbach, Y.",
+      "anio": 1968,
+      "titulo": "Teoría de los finales de partida",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1ZD2ns0cPobGl4B0EAVGtvEGGsgn4B17N/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-disculpen-las-aperturas-los-finales-son-fundamentales-parte",
+      "areaId": "a1",
+      "autor": "Barlov, D. y Karaklajic, N.",
+      "anio": 2005,
+      "titulo": "Disculpen las aperturas, los finales son fundamentales. Parte 1: peones y piezas menores",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1aj_KiK-Iw5MKr2CG65WgT_mD4owKDwLW/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-disculpen-las-aperturas-los-finales-son-fundamentales-parte-2",
+      "areaId": "a1",
+      "autor": "Barlov, D. y Karaklajic, N.",
+      "anio": 2005,
+      "titulo": "Disculpen las aperturas, los finales son fundamentales. Parte 2: piezas pesadas",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/13zMZfomTfJgAeK0ZGuc5l1VZrIM5b6DF/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-los-100-finales-que-hay-que-saber",
+      "areaId": "a1",
+      "autor": "De la Villa, J.",
+      "anio": 2006,
+      "titulo": "Los 100 finales que hay que saber",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1jrM3o6bEmnNk1tDtSLJ5Hd_RK0-c9azf/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-el-arte-de-maniobrar-con-las-piezas",
+      "areaId": "a1",
+      "autor": "Dvoretsky, M.",
+      "anio": 2016,
+      "titulo": "El arte de maniobrar con las piezas",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/12weUp37yGWiFztTnL3BvN5sFsEIgW2ju/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-leyes-del-ajedrez-de-la-fide",
+      "areaId": "a1",
+      "autor": "FIDE",
+      "anio": 2023,
+      "titulo": "Leyes del ajedrez de la FIDE",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1SdLPjWHGqoGMyKffGwhBwaVMwh97gk6u/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-tratado-general-de-ajedrez-tomo-i-rudimentos",
+      "areaId": "a1",
+      "autor": "Grau, R. G.",
+      "anio": 1996,
+      "titulo": "Tratado General de Ajedrez. Tomo I, Rudimentos",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1KLXDwfU3I-IpFGHn4YV7BJxUQ8WEIaYV/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-tratado-general-de-ajedrez-tomo-ii-tactica",
+      "areaId": "a1",
+      "autor": "Grau, R. G.",
+      "anio": 1996,
+      "titulo": "Tratado General de Ajedrez. Tomo II, Táctica",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1slUuwMIb-OmIwgUD3EE3IZ34upk0X0Jz/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-tratado-general-de-ajedrez-tomo-iii-conformacion-de-peones",
+      "areaId": "a1",
+      "autor": "Grau, R. G.",
+      "anio": 1996,
+      "titulo": "Tratado General de Ajedrez. Tomo III, Conformación de peones",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/19iA8qYcRKJBJMtHYFj36AFk8X9yGpLab/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-tratado-general-de-ajedrez-tomo-iv-estrategia-superior",
+      "areaId": "a1",
+      "autor": "Grau, R. G.",
+      "anio": 1996,
+      "titulo": "Tratado General de Ajedrez. Tomo IV, Estrategia superior",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1G-wNy95fLQX6fUTqOlNRzmoccrjZnoSO/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-escuela-de-ajedrez-1-cap1-2-13-43",
+      "areaId": "a1",
+      "autor": "Gude, A.",
+      "anio": 2007,
+      "titulo": "Escuela de Ajedrez 1 (Cap1-2) 13-43",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1PUr4PPB0xyPIrhEXTO89k2CmdgETyUJ1/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-mejore-su-ajedrez-posicional",
+      "areaId": "a1",
+      "autor": "Hansen, C.",
+      "anio": 2004,
+      "titulo": "Mejore su ajedrez posicional",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1yAaxSmq8OFDLxbASpVu6-Qxaa2do5DR7/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-la-estrategia-en-el-ajedrez-como-valorar-posiciones-y-trazar",
+      "areaId": "a1",
+      "autor": "Karpov, A. y Matsukevich, A.",
+      "anio": 2010,
+      "titulo": "La estrategia en el ajedrez. Cómo valorar posiciones y trazar planes",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/105o9nfdzWorF7w-eS9QpUhJBLxzBMvRs/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-el-poder-del-rey-en-el-ajedrez",
+      "areaId": "a1",
+      "autor": "Mednis, E.",
+      "anio": 1999,
+      "titulo": "El poder del rey en el ajedrez",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1MeT_XWGwrSskL2lLvsch43cSST_ynzaM/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-mi-sistema",
+      "areaId": "a1",
+      "autor": "Nimzowitch, A.",
+      "anio": 1925,
+      "titulo": "Mi sistema",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1bu4yGe2DMxr7JT_Q-DOORIAhJ-CgfaKR/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a1-larousse-del-ajedrez-descubrir-profundizar-dominar",
+      "areaId": "a1",
+      "autor": "Ybert, E.",
+      "anio": 2000,
+      "titulo": "Larousse del ajedrez: descubrir, profundizar, dominar",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1tenn6s1Ce6rXa_0VC3iNYHfpE6ZAA6t8/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-ajedrez-en-los-ochenta",
+      "areaId": "a2",
+      "autor": "Bronstein, D. y Smolyan, G.",
+      "anio": 1982,
+      "titulo": "Ajedrez en los ochenta",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1T891OeQzeIbym061sPKut76eewe1tFYU/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-ajedrez-escolar-o-ajedrez-en-la-escuela",
+      "areaId": "a2",
+      "autor": "Caramia, J.",
+      "anio": 2009,
+      "titulo": "¿Ajedrez escolar o ajedrez en la escuela?",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/13co2cu7XVANZ_mxVYBvJUJF1LvXqSLC9/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-ajedrez-en-la-escuela-o-ajedrez-escolar-ponencia-primer-cong",
+      "areaId": "a2",
+      "autor": "Cardella, C.",
+      "anio": 2009,
+      "titulo": "Ajedrez en la escuela o ajedrez escolar. Ponencia. Primer Congreso de Ajedrez Escolar",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1bHrYPxw9poadz3Ia2Pf9Fe6ivCIBNl65/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-ensenanza-para-la-comprension",
+      "areaId": "a2",
+      "autor": "Escobedo, H., Jaramillo, R., Bermúdez, A.",
+      "anio": 2004,
+      "titulo": "Enseñanza para la comprensión",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1OV03VZMdGzJTpbTOgojC0yRUz2eiDY9R/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-la-ensenanza-del-ajedrez-en-primaria",
+      "areaId": "a2",
+      "autor": "Segura, A.",
+      "anio": 2001,
+      "titulo": "La enseñanza del ajedrez en primaria",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1QM0JiTQXZaSrYNzM_I2uMThfz0y9D4ZY/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-el-concepto-de-posicion-docente-notas-conceptuales-y-metodol",
+      "areaId": "a2",
+      "autor": "Southwell, M. y Vassiliades, A.",
+      "anio": 2014,
+      "titulo": "El concepto de posición docente: notas conceptuales y metodológicas",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/13qgFVELXQKuIoWV6YK50-F3_Sifh58bO/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-el-aprendizaje-del-ajedrez-material-para-el-docente-de-ajedr",
+      "areaId": "a2",
+      "autor": "Soutullo, M.",
+      "anio": 2014,
+      "titulo": "El aprendizaje del ajedrez. Material para el docente de ajedrez",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1DsZOH_et0nsMV_rkFDthFXmuFz3BPzr7/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-el-saber-tiene-sentido-una-propuesta-de-integracion-curricul",
+      "areaId": "a2",
+      "autor": "Vasco, C., Bermúdez, A., Escobedo, H., Negret, J., León, T.",
+      "anio": 2000,
+      "titulo": "El saber tiene sentido. Una propuesta de integración curricular",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/14Fhu2z283ynkJ-1tSIhXa16CNL1_bUT8/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-un-enfoque-comprensivo-global-en-ajedrez-tomo-i-reflexiones",
+      "areaId": "a2",
+      "autor": "Vogel, E.",
+      "anio": 2020,
+      "titulo": "Un enfoque comprensivo-global en ajedrez. Tomo I Reflexiones pedagógicas-didácticas",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1yxbAjhCHCQhECF-uloYFczaC6Ljwi3za/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-un-enfoque-comprensivo-global-en-ajedrez-tomo-ii-aproximacio",
+      "areaId": "a2",
+      "autor": "Vogel, E.",
+      "anio": 2020,
+      "titulo": "Un enfoque comprensivo-global en ajedrez. Tomo II: Aproximaciones didácticas",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1u8BpS1wGPavuZKuLM3-IMvuRQbTBvaJr/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a2-ajedrez-escolar-indagaciones-y-perspectivas",
+      "areaId": "a2",
+      "autor": "Vogel, E. et al.",
+      "anio": 2017,
+      "titulo": "Ajedrez Escolar: Indagaciones y perspectivas",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1lXQtX0cqnDr6xuZLKNr1nNuvtH7xlyZ-/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-el-discurso-social-los-limites-historicos-de-lo-pensable-y-l",
+      "areaId": "a3",
+      "autor": "Angenot, M.",
+      "anio": 2010,
+      "titulo": "El discurso social. Los límites históricos de lo pensable y lo decible",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/15ZNmPP8TcxFAaaGljD0KlWO3F3J8J9Jp/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-el-ajedrez-tratado-de-sus-principios-fundamentales",
+      "areaId": "a3",
+      "autor": "Borao, G.",
+      "anio": 1858,
+      "titulo": "El ajedrez. Tratado de sus principios fundamentales",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1U8Tcdt8S6FmXJziv8xnmQXxlH6JuM3hQ/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-mitologia-del-ajedrez",
+      "areaId": "a3",
+      "autor": "Cardona, F.",
+      "anio": 2000,
+      "titulo": "Mitología del ajedrez",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/108gYdCe6LqWW4ebpqaecpVRZ8mIwhyjM/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-el-libro-de-las-tablas-de-alfonso-x-el-sabio",
+      "areaId": "a3",
+      "autor": null,
+      "anio": null,
+      "titulo": "El libro de las tablas de Alfonso X El Sabio",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1qKOAnFI7fHrJ4sCgeZzj6H00YGCEWiDO/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-historia-general-del-ajedrez",
+      "areaId": "a3",
+      "autor": "Ganzo, J.",
+      "anio": 1973,
+      "titulo": "Historia general del ajedrez",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1Slz4b7q59_YKg7Rfm01okI0vaWz6O1Sz/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-ensenanza-y-aprendizaje-de-la-historia-vinculos-entre-la-dis",
+      "areaId": "a3",
+      "autor": "Ibagón Martín, N. J. y Vásquez Leyton, G.",
+      "anio": 2024,
+      "titulo": "Enseñanza y aprendizaje de la Historia. Vínculos entre la disciplina y la práctica educativa",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1_cQhDArOnLW4evkSCfsUqDuIWM3rCknA/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-transformar-la-ensenanza-y-aprendizaje-de-la-historia-desde",
+      "areaId": "a3",
+      "autor": "Ibagón, M., Nilson, J.",
+      "anio": 2023,
+      "titulo": "Transformar la enseñanza y aprendizaje de la Historia desde la Educación Histórica. Fundamentos teóricos y metodológicos",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1y_l4YLyMEVn39OQU1QarCPjXkbyi8wcw/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-libro-de-axedrec-dados-e-tablas",
+      "areaId": "a3",
+      "autor": null,
+      "anio": null,
+      "titulo": "Libro de axedreç, dados e tablas",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/131E3STIpweVJEbqFXYO6xOXWMpfElUL-/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-ajedrez-y-sangre-en-el-parque",
+      "areaId": "a3",
+      "autor": "Morgado, J. S.",
+      "anio": 2012,
+      "titulo": "Ajedrez y sangre en el Parque",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1LFXnuKQjI-3szRXb_4q3Ufx9_LLUCdHF/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-los-anos-locos-del-ajedrez-argentino",
+      "areaId": "a3",
+      "autor": "Morgado, J. S.",
+      "anio": 2013,
+      "titulo": "Los años locos del ajedrez argentino",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1bGkdRG1jZzn4lhe692O3lQv-Ir-1rzrl/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-a-history-of-chess",
+      "areaId": "a3",
+      "autor": "Murray, H. J.",
+      "anio": 1913,
+      "titulo": "A History of Chess",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1lEuHKmBiFKAOqNadCUaJrRCTALyg9UOY/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a3-la-batalla-de-ideas-en-ajedrez",
+      "areaId": "a3",
+      "autor": "Saidy, A.",
+      "anio": 1973,
+      "titulo": "La batalla de ideas en ajedrez",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1rr7UCecBSUGtZn_v7uP5loqq_yiW29OK/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-la-construccion-social-de-la-realidad",
+      "areaId": "a4",
+      "autor": "Berger, P. y Luckmann, T.",
+      "anio": 2003,
+      "titulo": "La construcción social de la realidad",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1tNk8zECBC7-Ue3_fxELFuHIScsFln_VR/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-movimientos-en-blanco-y-negro-historia-literatura-y-arte-en",
+      "areaId": "a4",
+      "autor": "Biblioteca Nacional de la República Argentina",
+      "anio": 2017,
+      "titulo": "Movimientos en blanco y negro: historia, literatura y arte en el ajedrez argentino",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1sNxR4skyyiJwP5nir-m3nljxAgHyXGws/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-del-homo-ludens-a-la-gamificacion",
+      "areaId": "a4",
+      "autor": "Carreras, C.",
+      "anio": 2017,
+      "titulo": "Del Homo Ludens a la Gamificación",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1_sccQWQz5gbro0WStxPqn1YzXwIdLf-i/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-cuentos-de-ajedrez",
+      "areaId": "a4",
+      "autor": null,
+      "anio": null,
+      "titulo": "Cuentos de ajedrez",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1XEIGugc27nF3LJ3I7JOx62bpXxIibpXf/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-homo-ludens",
+      "areaId": "a4",
+      "autor": "Huizinga, J.",
+      "anio": 1998,
+      "titulo": "Homo ludens",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/17KO2PQRMq2KWE-IZsGS-BQXfCa7K3q0y/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-la-leyenda-del-tablero-de-ajedrez-y-los-granos-de-trigo",
+      "areaId": "a4",
+      "autor": null,
+      "anio": null,
+      "titulo": "La leyenda del tablero de ajedrez y los granos de trigo",
+      "disciplina": "A revisar",
+      "linkDrive": "https://drive.google.com/file/d/1r72og3hHyPoglntI4YZmez5Jc8cMhrrK/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-labov-1997",
+      "areaId": "a4",
+      "autor": "Labov",
+      "anio": 1997,
+      "titulo": "Labov_1997",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1tJvuh2J9Oinr-K9EppRNB_QLM8ugKovv/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-filosofia-del-ajedrez",
+      "areaId": "a4",
+      "autor": "Martinez Estrada, E.",
+      "anio": 2008,
+      "titulo": "Filosofía del ajedrez",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1Q0GJ-32RBoDmWu-cVArJipSLnqxsGHNN/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-homo-narrans-the-poetics-and-anthropology-of-oral-literature",
+      "areaId": "a4",
+      "autor": "Niles, J.",
+      "anio": 1999,
+      "titulo": "Homo Narrans: The Poetics and Anthropology of Oral Literature",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1fRmBA4MU1kb_IyWjLK_EE8BvE9wM66Kb/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-como-disenar-actividades-de-comprension-lectora",
+      "areaId": "a4",
+      "autor": "Sanz Moreno, Á.",
+      "anio": 2003,
+      "titulo": "Cómo diseñar actividades de comprensión lectora",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1T4BFa_j3dJRFsIgzDZ1g03WKAmUlgp5y/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-juegos-y-problemas-de-ajedrez-para-sherlock-holmes",
+      "areaId": "a4",
+      "autor": "Smullyan, R.",
+      "anio": null,
+      "titulo": "Juegos y problemas de ajedrez para Sherlock Holmes",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1IIv4anVOkepBcVUfcjBeUk-6zQuY0Rjw/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a4-the-chess-mysteries-of-the-arabian-chess",
+      "areaId": "a4",
+      "autor": "Smullyan, R.",
+      "anio": 1986,
+      "titulo": "The Chess Mysteries of the Arabian Chess",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1ZhbuikD5WIhfGeTCUzuOvWXZNKOc82B4/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a5-diseno-curricular-para-la-educacion-secundaria-1-ano",
+      "areaId": "a5",
+      "autor": "Dirección General de Cultura y Educación",
+      "anio": 2006,
+      "titulo": "Diseño curricular para la educación secundaria 1° año",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1XRjaqKyUe6aUFZvcUBdn6W9aVOWA0YQU/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a5-diseno-curricular-para-la-educacion-secundaria-2-ano",
+      "areaId": "a5",
+      "autor": "Dirección General de Cultura y Educación",
+      "anio": 2007,
+      "titulo": "Diseño curricular para la educación secundaria 2° año",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1crSn1F_N_rR4-1ENVfUBDp0l0Y-f5jXf/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a5-diseno-curricular-para-la-educacion-secundaria-3-ano",
+      "areaId": "a5",
+      "autor": "Dirección General de Cultura y Educación",
+      "anio": 2008,
+      "titulo": "Diseño curricular para la educación secundaria 3° año",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1w7NF8eUEspMc99L5VIQfFHKpCAk770ak/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a5-language-as-a-social-semiotic-the-social-interpretation-of-l",
+      "areaId": "a5",
+      "autor": "Halliday, M. A. K.",
+      "anio": 1978,
+      "titulo": "Language as a social semiotic. The social interpretation of language and meaning",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/179RwTwH7nQa6pScsq92tQpSgswb6UYj0/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a5-introducing-multimodality",
+      "areaId": "a5",
+      "autor": "Jewitt, C., Bezemer, J. y O'Halloran, K.",
+      "anio": 2016,
+      "titulo": "Introducing multimodality",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1Qhae8xVgu9O-WSLMf9b-QSfzAC--4OQf/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a5-el-espacio-ajedrecistico",
+      "areaId": "a5",
+      "autor": "Nicosia, N.",
+      "anio": null,
+      "titulo": "El espacio ajedrecístico",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1Iwg8hUf9rNmrqKVs0EVVGfiGctfuMVnz/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a5-pinacoteca-virtual-de-ajedrez",
+      "areaId": "a5",
+      "autor": null,
+      "anio": null,
+      "titulo": "Pinacoteca virtual de ajedrez",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/17B2PqqByXTql9X67xKqDpzkhgq1beGxm/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a5-propuesta-de-ensenanza-para-la-escuela-en-el-area-de-la-educ",
+      "areaId": "a5",
+      "autor": null,
+      "anio": null,
+      "titulo": "Propuesta de enseñanza para la escuela en el área de la educación artística",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1i-W2qXcJVZZpym067mnWrUjBN3WkN6SX/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a5-ajedrez-las-piezas-staunton",
+      "areaId": "a5",
+      "autor": "Raventós, F.",
+      "anio": 2014,
+      "titulo": "Ajedrez: Las Piezas Staunton",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1FvUUAEeShsssEfNb2gY5MXroC1GP3lv5/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-48-escaques-ajedrez-y-matematicas-1",
+      "areaId": "a6",
+      "autor": null,
+      "anio": null,
+      "titulo": "48-escaques-ajedrez_y_matematicas (1)",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/14D3TBdcVG3k5p02vrL2EFoCmhYn46z3c/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-50-ejercicios-de-ajedrez-y-matematicas-para-las-escuelas-un",
+      "areaId": "a6",
+      "autor": "Atkins, R., Foley, J., Harastova, V., Santos, C.",
+      "anio": 2019,
+      "titulo": "50 ejercicios de Ajedrez y Matemáticas para las escuelas. Un enfoque basado en el juego para resolver problemas",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1rV-oyGGnaJzJvvcPCsYIOH11TmTWs7xw/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-cuartos-de-torre-y-caballo",
+      "areaId": "a6",
+      "autor": null,
+      "anio": null,
+      "titulo": "Cuartos de Torre y Caballo",
+      "disciplina": "A revisar",
+      "linkDrive": "https://drive.google.com/file/d/19XCd5pZGPXX9AwdiNRil6xpJpwZRK27z/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-el-ajedrez-como-recurso-didactico-para-desarrollar-el-pensam",
+      "areaId": "a6",
+      "autor": "Cuenca Quyzhpe",
+      "anio": null,
+      "titulo": "El Ajedrez como Recurso Didactico para Desarrollar el pensamiento lógico matemático",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1vRUdPCxu0Ehx6azo53-OSubf5_MuR7kt/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-el-juego-en-la-educacion-infantil-y-primaria",
+      "areaId": "a6",
+      "autor": null,
+      "anio": null,
+      "titulo": "El juego en la educación infantil y primaria",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1em6Z7uXEQPwzlSkmLZpQ_46llQgXWRT0/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-ajedrez-y-matematica",
+      "areaId": "a6",
+      "autor": "Jaureguiberry",
+      "anio": null,
+      "titulo": "Ajedrez y Matemática",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/135DvReB2scq2boM4wzizYjkGUoAKjBI8/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-el-espacio-ajedrecistico",
+      "areaId": "a6",
+      "autor": "Nicosia, N.",
+      "anio": null,
+      "titulo": "El espacio ajedrecístico",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1_VloqcHlXwBuBpI7fkmexXEvxO1hBCeZ/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-incidencia-de-un-programa-de-ajedrez-en-los-tipos-de-pensami",
+      "areaId": "a6",
+      "autor": "Padilla-avalencia",
+      "anio": null,
+      "titulo": "Incidencia de un programa de ajedrez en los tipos de pensamiento matemático",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/15-EXH7D4UAFJozC83wk1PCaNTopU0i40/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-la-influencia-del-ajedrez-en-los-procesos-cognitivos",
+      "areaId": "a6",
+      "autor": "Panigua Benito, M.",
+      "anio": 2017,
+      "titulo": "La influencia del ajedrez en los procesos cognitivos",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1O0cohY71SnLxC_WG8afVC109kc8mMBbb/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-matematicas-y-ajedrez-tfg",
+      "areaId": "a6",
+      "autor": "Perez Gonzalez",
+      "anio": null,
+      "titulo": "Matematicas y ajedrez (TFG)",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1J9HDD6OtTrJLQ-Gj-GqRdaYMQhpyRvc1/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-el-juego-de-ajedrez-como-recurso-didactico-en-el-aprendizaje",
+      "areaId": "a6",
+      "autor": "Sánchez Villamares, L.",
+      "anio": 2003,
+      "titulo": "El juego de ajedrez como recurso didáctico en el aprendizaje de conceptos matemáticos",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1d9uD4z7c9OB48nSrkWSrjg_jF7x8KkeT/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-el-hombre-que-calculaba",
+      "areaId": "a6",
+      "autor": "Tahan, M.",
+      "anio": 2017,
+      "titulo": "El hombre que calculaba",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1wvaBz_L5iPz6nAoF7GTYKUGgg-SPLpeL/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a6-ajedrez-estrategia-didactica-alternativa-para-el-desarrollo",
+      "areaId": "a6",
+      "autor": "Tarazona Mojica, A.",
+      "anio": 2015,
+      "titulo": "Ajedrez, estrategia didáctica alternativa para el desarrollo de competencias matemáticas en alumnos de educación básica primaria",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1gDge2BUWsKMF5Ul86LWUhk3UnP-MC2Yz/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a7-la-nocion-de-modelo-en-las-ciencias-sociales",
+      "areaId": "a7",
+      "autor": "Armate, M.",
+      "anio": 2006,
+      "titulo": "La noción de Modelo en las Ciencias Sociales",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/163Oa3GwXhwdiawl-V0jo_1ZhVDvETXsv/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a7-adaptacion-de-modelos-de-aprendizaje-profundo-para-ajedrez",
+      "areaId": "a7",
+      "autor": "Bernal Martí, H.",
+      "anio": 2024,
+      "titulo": "Adaptación de modelos de aprendizaje profundo para ajedrez",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1oo0H-a7-LqXmDRIAT8dUdozA-o4P37J9/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a7-las-trayectorias-educativas-desde-la-perspectiva-de-una-psic",
+      "areaId": "a7",
+      "autor": "Greco, M. B.",
+      "anio": 2015,
+      "titulo": "Las trayectorias educativas desde la perspectiva de una psicología educacional contemporánea",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1o4u5UQhbSKIQOjtEp89kIpovy7r7anp8/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a7-lineamientos-esi",
+      "areaId": "a7",
+      "autor": null,
+      "anio": null,
+      "titulo": "lineamientos ESI",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1IsHt7sDUPlNpK2wzAyxIrouSq_3tSOfn/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a7-politicas-practicas-socioeducativas-y-escuelas-secundarias",
+      "areaId": "a7",
+      "autor": "Martignoni et al.",
+      "anio": null,
+      "titulo": "Políticas, prácticas socioeducativas y escuelas secundarias",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1mSpsD6OtIbeSd9o3hJo5rsXJTHN9ULlS/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a7-modelo-sociocomunitario",
+      "areaId": "a7",
+      "autor": "Martínez Ravanal, V.",
+      "anio": 2019,
+      "titulo": "Modelo sociocomunitario",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1SKAXCPK3r-wK4Q-xmLV-0pPnO53SKrxa/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a7-fundamentos-de-ia-para-el-ajedrez",
+      "areaId": "a7",
+      "autor": "Portillo Raya, A.",
+      "anio": 2019,
+      "titulo": "Fundamentos de IA para el ajedrez",
+      "disciplina": "Ajedrez",
+      "linkDrive": "https://drive.google.com/file/d/1pz4sjMqX2CavD4hQTRb-nwjw8KQrYeeW/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a7-actos-de-habla-ensayo-de-filosofia-del-lenguaje",
+      "areaId": "a7",
+      "autor": "Searle, J.",
+      "anio": 1990,
+      "titulo": "Actos de habla. Ensayo de filosofía del lenguaje",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1qnFzczzqd-vhpbr26w4jPy8Sm1xbu-vU/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a7-proyecto-de-acompanamiento-a-las-trayectorias-educativas",
+      "areaId": "a7",
+      "autor": "SITEAL",
+      "anio": null,
+      "titulo": "Proyecto de acompañamiento a las trayectorias educativas",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/1KdNX-iNGwkZz2qySgVbeduxZj7SXn5Ci/view",
+      "paraQueSeUsa": null
+    },
+    {
+      "id": "a7-los-desafios-que-plantean-las-trayectorias-escolares",
+      "areaId": "a7",
+      "autor": "Terigi, F.",
+      "anio": 2007,
+      "titulo": "Los desafíos que plantean las trayectorias escolares",
+      "disciplina": "Otra disciplina",
+      "linkDrive": "https://drive.google.com/file/d/19uitjeQv1itIb9pmlrXjRjclMNROzM8r/view",
+      "paraQueSeUsa": null
+    }
+  ]
+}

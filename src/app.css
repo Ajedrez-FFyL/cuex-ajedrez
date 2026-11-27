@@ -1,0 +1,134 @@
+:root {
+  /* Paleta de Ajedrez FFyL (la misma del Entrenador): marino y verde azulado sobre crema. */
+  --fondo: #f4efe4;
+  --superficie: #fffdf8;
+  --texto: #1e2655;
+  --texto-suave: #52607a;
+  --borde: #ded6c4;
+  --acento: #257567;
+  --acento-texto: #ffffff;
+  --celeste: #d8eee8;
+  --radio: 12px;
+  color-scheme: light;
+  font-family: 'Archivo', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.55;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-tema='claro']) {
+    --fondo: #182540;
+    --superficie: #20325a;
+    --texto: #eef2f7;
+    --texto-suave: #a9bad0;
+    --borde: #32456b;
+    --acento: #6fd9c4;
+    --acento-texto: #0f2e28;
+    --celeste: #1f4a44;
+    color-scheme: dark;
+  }
+}
+
+:root[data-tema='oscuro'] {
+  --fondo: #182540;
+  --superficie: #20325a;
+  --texto: #eef2f7;
+  --texto-suave: #a9bad0;
+  --borde: #32456b;
+  --acento: #6fd9c4;
+  --acento-texto: #0f2e28;
+  --celeste: #1f4a44;
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--fondo);
+  color: var(--texto);
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Bitter', Georgia, serif;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0 0 0.5rem;
+}
+
+h1 {
+  font-size: 1.7rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+h3 {
+  font-size: 1.05rem;
+}
+
+a {
+  color: var(--acento);
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--acento);
+  outline-offset: 2px;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
+
+input,
+select {
+  font: inherit;
+  color: var(--texto);
+  background: var(--superficie);
+  border: 1px solid var(--borde);
+  border-radius: 8px;
+  padding: 8px 10px;
+}
+
+.suave {
+  color: var(--texto-suave);
+}
+
+.tarjeta {
+  border: 1px solid var(--borde);
+  border-radius: var(--radio);
+  background: var(--superficie);
+  padding: 16px;
+}
+
+.boton {
+  display: inline-block;
+  border: 1px solid transparent;
+  background: var(--acento);
+  color: var(--acento-texto);
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+
+.boton:hover {
+  filter: brightness(1.08);
+}
+
+.etiqueta {
+  display: inline-block;
+  border: 1px solid var(--borde);
+  border-radius: 999px;
+  padding: 0 8px;
+  font-size: 0.8rem;
+  color: var(--texto-suave);
+}
